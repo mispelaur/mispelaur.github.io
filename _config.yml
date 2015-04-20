@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Lauren Spencer
+tagline:          'developer'
+description:      '<p class="lead">London-based developer, current web dev TA at <a href="//generalassemb.ly/education/web-development-immersive/london" target="_blank">GA</a> and <a href="//codebar.io/" target="_blank">Codebar</a> coach.</p>'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
